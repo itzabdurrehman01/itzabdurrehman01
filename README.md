@@ -10,9 +10,9 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-abdur-rehman-tahirrr/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-abdurrehman/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:abdurrehmanrajpoot001@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/AbdurrehmanTahirr"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/itzabdurrehman01"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ## ⚙️ Tools & Technologies Used
